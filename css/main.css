@@ -1,0 +1,27 @@
+.nav{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  height: 500px;
+  width: 100%;
+  background-color: lightblue;
+}
+div .navbar-header{
+  position: absolute;
+  float: left;
+  top: 55px;
+  font-size: 2em;
+  font-weight: bold;
+   margin-left: 400px;
+}
+
+ ul li {
+  position: absolute;
+  float: right;
+  margin-right: 80px;
+  top: 60px;
+  right: 70px;
+  display: inline-block;
+
+
+}

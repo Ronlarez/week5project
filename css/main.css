@@ -22,6 +22,24 @@ div .navbar-header{
   top: 60px;
   right: 70px;
   display: inline-block;
+}
+H1{
+  position: absolute;
+  font-weight: bold;
+  font-display: block;
+  top: 100PX;
+  color: WHITE;
+}
 
+ul img{
+  position: absolute;
+  right: -400px;px;
+  top: 150px;
+}
+
+.col-md-4{
+  top: 600px;
+  margin-left: 0;
+  padding-left: 90px;
 
 }
